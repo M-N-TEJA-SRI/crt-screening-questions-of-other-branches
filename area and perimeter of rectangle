@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main() {
+    // Write C++ code here
+   int l,b;
+   cin>>l>>b;
+   cout<<l*b<<" "<<2*(l+b);
+
+    return 0;
+}
+output
+3 4
+12 14
